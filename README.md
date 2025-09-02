@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BOUTIQUE one-word domains still available to buy.
 
-This dataset contains 3,906 .BOUTIQUE one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,907 .BOUTIQUE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BOUTIQUE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boutique-oneword-domains&utm_content=description.top) (3,742) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
