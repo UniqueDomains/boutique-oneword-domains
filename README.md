@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.BOUTIQUE one word dom
 | aaa.boutique        | available | 70       | 38%    | 3      |                   |                  |                  |
 | abactinal.boutique  | available | 50       | 1%     | 9      |                   |                  |                  |
 | abaft.boutique      | available | 43       | 2%     | 5      |                   |                  |                  |
-| abandoned.boutique  | available | 58       | 10%    | 9      |                   |                  |                  |
+| abandoned.boutique  | available | 58       | 7%     | 9      |                   |                  |                  |
 | abashed.boutique    | available | 60       | 2%     | 7      |                   |                  |                  |
 | abasic.boutique     | available | 54       | 2%     | 6      |                   |                  |                  |
 | abatable.boutique   | available | 54       | 1%     | 8      |                   |                  |                  |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.BOUTIQUE one word dom
 | abbatial.boutique   | available | 50       | 1%     | 8      |                   |                  |                  |
 | abc.boutique        | resell    | 102      | 41%    | 3      | Sav.com, LLC - 46 | 25/03/2025 15:15 | 25/03/2026 15:15 |
 | abdicable.boutique  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abdominal.boutique  | available | 82       | 1%     | 9      |                   |                  |                  |
+| abdominal.boutique  | available | 82       | 5%     | 9      |                   |                  |                  |
 | abdominous.boutique | available | 56       | 1%     | 10     |                   |                  |                  |
 | abducens.boutique   | available | 54       | 1%     | 8      |                   |                  |                  |
 | abducent.boutique   | available | 68       | 1%     | 8      |                   |                  |                  |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.BOUTIQUE one word dom
 | aberdonian.boutique | available | 68       | 1%     | 10     |                   |                  |                  |
 | aberrant.boutique   | available | 74       | 7%     | 8      |                   |                  |                  |
 | abeyant.boutique    | available | 56       | 2%     | 7      |                   |                  |                  |
-| abhorrent.boutique  | available | 54       | 1%     | 9      |                   |                  |                  |
+| abhorrent.boutique  | available | 54       | 3%     | 9      |                   |                  |                  |
 | abiding.boutique    | available | 106      | 5%     | 7      |                   |                  |                  |
 | abient.boutique     | available | 54       | 1%     | 6      |                   |                  |                  |
 | abit.boutique       | available | 66       | 16%    | 5      |                   |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BOUTIQUE one word dom
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
