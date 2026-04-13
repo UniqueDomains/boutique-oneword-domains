@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .boutique one-word domains from Un
 
 **Public extract:** 9,168 rows · **Live catalog:** 9,168 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/boutique`  
 **Best for:** founders, investors, studios
 
@@ -78,10 +78,10 @@ print(df.head())
 | big.boutique        | premium   | $250      | $250          | 88             | 47     | 3      | name.com        |
 | shared.boutique     | available | $6.99     | $46.99        | 70             | 39     | 6      | name.com        |
 | easy.boutique       | resell    | —         | —             | 128            | 68     | 4      | Dynadot Inc     |
-| star.boutique       | premium   | $500      | $500          | 86             | 44     | 4      | name.com        |
+| nice.boutique       | premium   | $500      | $500          | 86             | 44     | 4      | name.com        |
 | forward.boutique    | available | $6.99     | $46.99        | 68             | 39     | 7      | name.com        |
 | flow.boutique       | resell    | —         | —             | 96             | 67     | 4      | Sav.com, LLC    |
-| nice.boutique       | premium   | $500      | $500          | 86             | 44     | 4      | name.com        |
+| star.boutique       | premium   | $500      | $500          | 86             | 43     | 4      | name.com        |
 | check.boutique      | available | $6.99     | $46.99        | 76             | 38     | 5      | name.com        |
 | web.boutique        | resell    | —         | —             | 72             | 61     | 3      | Porkbun LLC     |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
