@@ -1,22 +1,22 @@
-# Available .BOUTIQUE One-Word Domains (9,168)
+# Available .BOUTIQUE One-Word Domains (11,912)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C170%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C168%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C912%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .boutique one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .boutique one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,912 domains** on the canonical page below.
 
-**Public extract:** 9,170 rows · **Live catalog:** 9,168 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,912 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/boutique`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BOUTIQUE one-word dom
 
 ### Files
 
-- `boutique.csv` — public CSV extract (9,170 rows)
-- `boutique.json` — public JSON extract (9,170 rows)
+- `boutique.csv` — public CSV extract (1,000 rows)
+- `boutique.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| tesla.boutique      | available | $6.99     | —             | 86             | 61     | 5      | name.com        |
-| electronic.boutique | resell    | $6.99     | $46.99        | 68             | 20     | 10     | NameCheap, Inc. |
-| power.boutique      | premium   | $260      | $260          | 98             | 62     | 5      | namecheap       |
-| clear.boutique      | available | $6.99     | $46.99        | 90             | 47     | 5      | name.com        |
-| white.boutique      | resell    | —         | —             | 102            | 98     | 5      | Porkbun LLC     |
-| ace.boutique        | premium   | $250      | $250          | 88             | 57     | 3      | name.com        |
-| track.boutique      | available | $6.99     | $46.99        | 94             | 45     | 5      | name.com        |
-| wise.boutique       | resell    | —         | —             | 98             | 71     | 4      | Dynadot Inc     |
-| all.boutique        | premium   | $82.50    | $82.50        | 88             | 48     | 3      | name.com        |
-| eternal.boutique    | available | $6.99     | $46.99        | 92             | 39     | 7      | name.com        |
-| easy.boutique       | resell    | —         | —             | 128            | 68     | 4      | Dynadot Inc     |
-| big.boutique        | premium   | $250      | $250          | 88             | 47     | 3      | name.com        |
-| forward.boutique    | available | $6.99     | $46.99        | 68             | 39     | 7      | name.com        |
-| flow.boutique       | resell    | —         | —             | 96             | 66     | 4      | Sav.com, LLC    |
-| nice.boutique       | premium   | $500      | $500          | 86             | 44     | 4      | name.com        |
-| unify.boutique      | available | $6.99     | $46.99        | 72             | 38     | 5      | name.com        |
-| web.boutique        | resell    | —         | —             | 72             | 61     | 3      | Porkbun LLC     |
-| pop.boutique        | premium   | $250      | $250          | 82             | 44     | 3      | name.com        |
-| risk.boutique       | available | $41.98    | —             | 62             | 38     | 4      | namecheap       |
-| mail.boutique       | resell    | —         | —             | 94             | 59     | 4      | Dynadot Inc     |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| Ryan.boutique        | available | $41.98    | —             | 60             | 44     | 4      | namecheap         |
+| pussy.boutique       | resell    | —         | —             | 50             | 36     | 5      | Spaceship, Inc.   |
+| etc.boutique         | premium   | $250      | —             | 58             | 34     | 3      | name.com          |
+| whynot.boutique      | available | $6.99     | —             | 74             | 39     | 7      | name.com          |
+| swim.boutique        | resell    | —         | —             | 74             | 28     | 4      | Spaceship, Inc.   |
+| girls.boutique       | premium   | $82.50    | —             | 83             | 23     | 5      | name.com          |
+| spectra.boutique     | available | $6.99     | —             | 62             | 34     | 7      | name.com          |
+| brands.boutique      | resell    | —         | —             | 62             | 28     | 6      | Sav.com, LLC - 23 |
+| jewels.boutique      | premium   | $250      | —             | 80             | 15     | 6      | name.com          |
+| maps.boutique        | available | $6.99     | —             | 56             | 31     | 4      | name.com          |
+| prints.boutique      | resell    | —         | —             | 54             | 18     | 6      | Spaceship, Inc.   |
+| dresses.boutique     | premium   | $82.50    | —             | 58             | 10     | 7      | name.com          |
+| inspiration.boutique | available | $6.99     | —             | 88             | 30     | 11     | name.com          |
+| sparkles.boutique    | resell    | —         | —             | 62             | 15     | 8      | Spaceship, Inc.   |
+| carols.boutique      | premium   | $45.99    | —             | 56             | 7      | 6      | name.com          |
+| SanDiego.boutique    | available | $6.99     | —             | 74             | 29     | 9      | name.com          |
+| heroes.boutique      | available | $6.99     | —             | 68             | 29     | 6      | name.com          |
+| Jim.boutique         | available | $41.98    | —             | 78             | 28     | 3      | namecheap         |
+| systems.boutique     | available | $6.99     | —             | 46             | 27     | 7      | name.com          |
+| Trex.boutique        | available | $41.98    | —             | 80             | 24     | 5      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,170-row public sample | 9,168 live domains                               |
+| 1,000-row public sample | 11,912 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
