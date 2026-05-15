@@ -19,6 +19,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 018637ca-2be4-48a6-b8ea-d45fb3dc0b0e,functions.boutique,available,6.99,,54,12,9,name.com,,
 01a48dd4-1c70-4860-9dd9-fc1d09beaaa8,synchronizes.boutique,available,6.99,,62,1,12,name.com,,
 01bede19-609d-4107-b44b-d1ad0c31f81d,fittogether.boutique,available,6.99,,80,4,12,name.com,,
+01ef4e35-f247-420d-9b69-e442796fa9af,RGB.boutique,premium,,,76,30,3,,,
 01f9bc80-9eee-4b7f-9821-c06ea8e57174,tirades.boutique,available,6.99,,46,1,7,name.com,,
 01fcff3b-73c1-4f21-8f1e-1b5b8abe4c5a,closeones.boutique,available,6.99,,52,1,10,name.com,,
 023687b9-f116-4b80-8e99-49fdf85b73e4,resumed.boutique,available,6.99,,56,4,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57b73183-e163-4187-bd2d-17ea8b60ca85,getthroughto.boutique,available,6.99,,49,1,14,name.com,,
 57b7c480-915f-4ea5-8f14-5837cb4605c6,libraries.boutique,available,6.99,,58,11,9,name.com,,
 57c1ff77-3931-4e71-b098-4fad9186488c,backgrounds.boutique,available,6.99,,50,5,11,name.com,,
-57d2c154-d8f4-4ef6-a47a-b64a45813cb3,ovens.boutique,available,6.99,,55,6,5,name.com,,
