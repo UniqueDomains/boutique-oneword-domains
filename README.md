@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boutique one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,110 domains · **Median ask:** $12.26 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/boutique`  
 **Best for:** founders, investors, studios
 
@@ -75,10 +75,10 @@ print(df.head())
 | pierogi.boutique  | available | $6.99     | —             | 82             | 7      | 7      | name.com          |
 | impress.boutique  | available | $6.99     | —             | 86             | 18     | 7      | name.com          |
 | Snickers.boutique | available | $41.98    | —             | 80             | 10     | 8      | namecheap         |
-| Ryan.boutique     | available | $41.98    | —             | 60             | 44     | 4      | namecheap         |
+| whynot.boutique   | available | $6.99     | —             | 74             | 44     | 7      | name.com          |
 | pussy.boutique    | resell    | —         | —             | 50             | 37     | 5      | Spaceship, Inc.   |
 | etc.boutique      | premium   | $250      | —             | 58             | 34     | 3      | name.com          |
-| whynot.boutique   | available | $6.99     | —             | 74             | 39     | 7      | name.com          |
+| Ryan.boutique     | available | $41.98    | —             | 60             | 44     | 4      | namecheap         |
 | brands.boutique   | resell    | —         | —             | 62             | 28     | 6      | Sav.com, LLC - 23 |
 | jewels.boutique   | premium   | $250      | —             | 80             | 15     | 6      | name.com          |
 | spectra.boutique  | available | $6.99     | —             | 62             | 34     | 7      | name.com          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
