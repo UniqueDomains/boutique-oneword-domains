@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 11207ed8-0095-44e2-8c2f-9e878919c474,studyabroad.boutique,available,6.99,,medium,low,12,name.com,,
 f37acccd-7c5b-4b7f-a7ca-523d70cb4965,fourth.boutique,available,2.98,41.98,low,low,6,namecheap,,
 3c7cb08b-eb79-4035-90af-0263c6d2e517,StPauls.boutique,available,6.99,,medium,low,8,name.com,,
-e9e4f478-3cd6-423c-8cda-36f896d97f2d,from.boutique,available,6.99,,high,low,4,name.com,,
+e9e4f478-3cd6-423c-8cda-36f896d97f2d,from.boutique,available,2.98,41.98,medium,low,4,namecheap,,
 f644fbb0-d1a7-4415-be30-ac92d0ca37ec,event.boutique,resell,,,high,medium,5,Porkbun LLC,05/09/2025 01:45,05/09/2026 01:45
 155edc2c-93c8-416c-8f5e-c118fbeb5e3b,macedonia.boutique,available,6.99,,high,medium,9,name.com,,
 dbe8e1bd-b102-41a4-b91a-4df210ed461e,lifelesson.boutique,available,6.99,,high,low,11,name.com,,
@@ -571,7 +571,7 @@ c2479990-1c51-4dc6-a3bc-b041e15472d6,hands.boutique,available,2.98,41.98,low,low
 c0a786e5-1bc0-4058-b78d-8625a08bf111,grandchild.boutique,available,6.99,,medium,low,10,name.com,,
 40342b70-7817-45c9-9b04-5b054ace1569,hit.boutique,premium,78.54,78.54,high,low,3,namesilo,,
 39c18986-9f61-4327-9ee9-0f64900df0ae,phonesurvey.boutique,available,6.99,,medium,low,12,name.com,,
-db30bab1-e5b0-4a18-bbdb-95ecd751c921,theft.boutique,available,6.99,,medium,low,5,name.com,,
+db30bab1-e5b0-4a18-bbdb-95ecd751c921,theft.boutique,available,2.98,41.98,low,low,5,namecheap,,
 20943fb8-ff37-4ca1-b86a-5cba2539ec15,inane.boutique,available,2.98,41.98,low,low,5,namecheap,,
 9f3df720-dbfe-4a33-b88c-51f84bf11427,abouteast.boutique,available,6.99,,medium,low,10,name.com,,
 bb0dfd11-90ff-4b87-83f4-37dbdb748fc3,bats.boutique,available,2.98,41.98,low,low,4,namecheap,,
@@ -992,7 +992,7 @@ d22ec8d1-5319-4674-befc-886d4bfa7ca9,unreal.boutique,resell,,,medium,low,6,"GoDa
 d5e53f83-4302-47da-8149-f57a3c83dbd8,devoted.boutique,available,6.99,46.99,high,low,7,name.com,,
 c3f566ba-0069-44c5-9021-673bb20c5aad,cornered.boutique,available,2.98,41.98,low,low,8,namecheap,,
 f8723f9b-722c-4b89-8030-844b52beeb53,view.boutique,resell,,,high,low,4,"Spaceship, Inc.",20/10/2025 19:27,20/10/2026 19:27
-ee99f338-3a6f-4b37-af0a-5d146181e7cc,seafood.boutique,available,6.99,,high,low,7,name.com,,
+ee99f338-3a6f-4b37-af0a-5d146181e7cc,seafood.boutique,available,2.98,41.98,medium,low,7,namecheap,,
 c7a19cfd-6257-44e6-a43d-0840b238337f,bathe.boutique,available,6.99,,high,low,5,name.com,,
 3852eb91-c2d7-44d5-99e5-047ecefb66de,strongpersonality.boutique,available,6.99,,high,low,18,name.com,,
 da44283a-2718-41ea-88ae-af205eb0fe96,toy.boutique,premium,242,242,high,low,3,namesilo,,
