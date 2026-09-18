@@ -300,7 +300,6 @@ efcfa6e3-3f01-452c-ad76-b1863c3e3acb,howareyou.boutique,available,6.99,,medium,l
 f1dc6753-7fbf-46cb-9472-5904dc61ad9a,slick.boutique,available,6.99,46.99,medium,low,5,name.com,,,
 e8fae52d-464f-41b6-aad0-c79b7b76eb9c,not.boutique,available,6.99,,medium,medium,3,name.com,,,
 2e056e0e-2af5-4340-b020-5147e310d83e,attention.boutique,available,6.99,,high,low,9,name.com,,,
-50c03715-a701-4d48-b035-1911498da4d0,champagne.boutique,resell,,,high,low,9,"Spaceship, Inc.",03/07/2025 19:06,03/07/2026 19:06,
 f322a014-896c-47f5-b807-4edda3ecc789,extra.boutique,available,6.99,46.99,high,low,5,name.com,,,
 d3969099-43e5-496f-9d57-963b62553095,careless.boutique,available,6.99,,medium,low,8,name.com,,,
 0a77aa00-43bb-47f2-967d-f0dae132d2dd,creature.boutique,available,6.99,,medium,low,8,name.com,,,
@@ -910,7 +909,6 @@ b8dda50a-0864-49ed-a2d5-a1d4f9124605,miserable.boutique,available,2.98,41.98,low
 b909f947-cb6e-4700-bfc1-4941575a9fb3,mealvoucher.boutique,available,6.99,,high,low,12,name.com,,,
 1e763371-bb7c-4a3c-acda-9b3002da9368,armoured.boutique,available,2.98,41.98,low,low,8,namecheap,,,06/08/2026 20:10
 8db8f9af-eab0-4225-bc1f-75ac7d53b53f,illness.boutique,available,6.99,,medium,low,7,name.com,,,
-6769ffe1-5033-4077-9e34-a378ac2ac31e,dragon.boutique,resell,,,high,medium,6,"GoDaddy.com, LLC",02/07/2025 17:01,02/07/2026 17:01,
 100b0970-c263-4015-bace-7585e724d0c8,howgoesit.boutique,available,6.99,,medium,low,11,name.com,,,
 5fdcff75-3faa-4a95-b8b8-b3a7b9362c91,turnabout.boutique,available,6.99,,low,low,10,name.com,,,
 89ec2d77-3bf7-4fb5-847c-2b0cd55e0b99,scorched.boutique,available,2.98,41.98,low,low,8,namecheap,,,
@@ -927,7 +925,6 @@ cb1aeda9-69eb-4fa3-955b-3b90c5d9cd92,rightnow.boutique,available,6.99,,medium,lo
 e85163cb-51d6-430a-8fb5-fff0080df93f,prevenient.boutique,available,2.98,41.98,low,low,10,namecheap,,,
 8f8f2de4-907a-4a75-b466-301bd17c6c59,capable.boutique,available,6.99,46.99,high,low,7,name.com,,,
 e112e576-8618-41bf-a8bb-b398f38b5035,xix.boutique,available,6.99,46.99,high,low,3,name.com,,,
-a52d5514-27fc-4233-ab40-0259fe5abd37,rocket.boutique,resell,,,high,medium,6,"GoDaddy.com, LLC",04/07/2025 17:02,04/07/2026 17:02,
 a2bcbe7a-89a4-49ab-a0d1-12d1e5921a90,heart.boutique,resell,,,high,low,5,"Sav.com, LLC",27/04/2025 19:54,27/04/2027 19:54,
 83934936-d57f-4626-aed6-8e3948009e88,teenage.boutique,available,2.98,41.98,low,low,8,namecheap,,,11/09/2026 10:07
 5f05e2dd-56e8-4eda-abe5-9d1187796250,Carribean.boutique,available,6.99,,high,low,9,name.com,,,
@@ -999,3 +996,6 @@ da44283a-2718-41ea-88ae-af205eb0fe96,toy.boutique,premium,242,242,high,low,3,nam
 3de24510-2234-4622-a315-8a760e94900b,division.boutique,available,6.99,,medium,low,8,name.com,,,
 6df286dd-759d-415f-8efb-599d4ba6bb13,welfare.boutique,available,2.98,41.98,medium,low,7,namecheap,,,08/09/2026 03:13
 9ccd16ab-0b1a-43d7-8b1d-f2d4af784a41,everybit.boutique,available,2.98,41.98,low,low,9,namecheap,,,13/09/2026 21:02
+b1c02dbe-baac-4ba5-ad41-68514a40613f,hearable.boutique,available,2.98,41.98,low,low,8,namecheap,,,07/08/2026 16:35
+df9c6ff8-bee2-4721-a970-1377eb9315c4,checklist.boutique,available,6.99,,high,low,9,name.com,,,
+ba3f93db-a6b0-4f05-8e5f-18e44b42623f,dismayed.boutique,available,2.98,41.98,low,low,8,namecheap,,,
