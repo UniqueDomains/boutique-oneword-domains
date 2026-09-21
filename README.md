@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boutique one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,770 domains · **Median ask:** $6.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/boutique`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | aft.boutique        | available | $2.98     | $41.98        | low            | low    | 3      | namecheap        |
 | alcohol.boutique    | resell    | $6.99     | —             | high           | low    | 7      | Spaceship, Inc.  |
 | gym.boutique        | premium   | $250      | —             | high           | low    | 3      | name.com         |
-| age.boutique        | available | $2.98     | $41.98        | medium         | low    | 3      | namecheap        |
-| electronic.boutique | resell    | $6.99     | $46.99        | medium         | low    | 10     | NameCheap, Inc.  |
+| age.boutique        | available | $5.99     | $32.99        | medium         | low    | 3      | namesilo         |
+| electronic.boutique | resell    | $6.99     | $46.99        | low            | low    | 10     | NameCheap, Inc.  |
 | her.boutique        | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
 | clx.boutique        | available | $2.98     | $41.98        | low            | low    | 3      | namecheap        |
 | for.boutique        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
 | hit.boutique        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 | cry.boutique        | available | $6.99     | —             | high           | low    | 3      | name.com         |
-| care.boutique       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
+| cell.boutique       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | lip.boutique        | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
 | cue.boutique        | available | $6.99     | —             | medium         | low    | 3      | name.com         |
-| cell.boutique       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| echo.boutique       | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.  |
 | mad.boutique        | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo         |
 | cxv.boutique        | available | $2.98     | $41.98        | low            | low    | 3      | namecheap        |
-| debt.boutique       | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.  |
+| gift.boutique       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
 | new.boutique        | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
 | cxx.boutique        | available | $2.98     | $41.98        | low            | low    | 3      | namecheap        |
-| echo.boutique       | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.  |
+| more.boutique       | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
