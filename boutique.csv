@@ -3,10 +3,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 f37acccd-7c5b-4b7f-a7ca-523d70cb4965,fourth.boutique,available,2.98,41.98,low,low,6,namecheap,,,
 3c7cb08b-eb79-4035-90af-0263c6d2e517,stpauls.boutique,available,6.99,,medium,low,8,name.com,,,
 e9e4f478-3cd6-423c-8cda-36f896d97f2d,from.boutique,available,2.98,41.98,medium,low,4,namecheap,,,08/09/2026 08:57
-f644fbb0-d1a7-4415-be30-ac92d0ca37ec,event.boutique,resell,,,high,medium,5,Porkbun LLC,05/09/2025 01:45,05/09/2026 01:45,
+f644fbb0-d1a7-4415-be30-ac92d0ca37ec,event.boutique,resell,,,high,medium,5,Atom.com Domains LLC,05/09/2025 01:45,05/09/2027 01:45,24/09/2026 04:04
 155edc2c-93c8-416c-8f5e-c118fbeb5e3b,macedonia.boutique,available,6.99,,high,medium,9,name.com,,,
 dbe8e1bd-b102-41a4-b91a-4df210ed461e,lifelesson.boutique,available,6.99,,high,low,11,name.com,,,
-0bf2fef9-8106-4bf0-b39d-aa0af51ff372,material.boutique,available,6.99,46.99,high,low,8,name.com,,,
+0bf2fef9-8106-4bf0-b39d-aa0af51ff372,material.boutique,available,5.99,32.99,medium,low,8,namesilo,,,23/09/2026 23:27
 0252b8f7-957f-47b4-806f-94b7e57a098f,flashsale.boutique,available,6.99,,high,low,10,name.com,,,
 bf054289-aca0-4f9b-9f6d-3a821b9c4415,basined.boutique,available,2.98,41.98,low,low,7,namecheap,,,08/08/2026 22:37
 f7dd9836-7cdb-4885-8ab2-623f62c3af20,cultivable.boutique,available,2.98,41.98,low,low,10,namecheap,,,06/08/2026 11:20
@@ -34,7 +34,7 @@ be8a8dc2-8f1d-42b2-9d79-d4b7692c252a,reddish.boutique,available,5.99,32.99,low,l
 610b2e85-57a1-4d8f-b9ab-f1e6b49e725d,billbird.boutique,available,6.99,,medium,low,9,name.com,,,
 378b02f6-eba6-4f39-bd4c-5dbeadf4d559,waitinglist.boutique,available,6.99,,medium,low,12,name.com,,,
 9a70ee8a-25ad-4c8d-af8c-86e619626fd6,kgb.boutique,available,6.99,,high,low,3,name.com,,,
-fe6a43c6-ec41-46c2-b4a2-023ca1023540,immediate.boutique,available,6.99,46.99,high,low,9,name.com,,,
+fe6a43c6-ec41-46c2-b4a2-023ca1023540,immediate.boutique,available,5.99,32.99,medium,low,9,namesilo,,,23/09/2026 22:04
 dbd09bb1-4d09-4369-ab85-35ace22e9dad,prone.boutique,available,6.99,,medium,low,5,name.com,,,
 36cf647d-c45a-4bdf-be0e-65e869241041,supervise.boutique,available,6.99,,high,low,9,name.com,,,
 708dfd13-d837-4c3d-9880-d1bb5c3b7f01,autoerotic.boutique,available,2.98,41.98,low,low,10,namecheap,,,07/08/2026 20:01
@@ -47,7 +47,7 @@ d95e2677-0b31-4081-95e5-43b8279b569a,humorous.boutique,available,6.99,,high,low,
 e075c708-0648-4f89-9510-8f1ba7a6de4b,progression.boutique,available,6.99,,medium,low,11,name.com,,,
 afa865f4-2689-46cd-b60c-9b143f4bb69b,abaxial.boutique,available,2.98,41.98,low,low,7,namecheap,,,
 4bbc320c-c06c-4d19-b8c4-b74eae368fd6,anesthesia.boutique,available,6.99,,high,low,10,name.com,,,
-fbd29fd6-c185-44dd-9a3a-2cae7483219e,lousy.boutique,available,6.99,46.99,medium,low,5,name.com,,,
+fbd29fd6-c185-44dd-9a3a-2cae7483219e,lousy.boutique,available,5.99,32.99,low,low,5,namesilo,,,24/09/2026 01:33
 f70e09f4-5e92-4049-9376-e549e56111fa,economical.boutique,available,6.99,46.99,medium,low,10,name.com,,,
 9f13d6b2-d4e8-4b49-b211-1d6bb949eee2,himself.boutique,available,6.99,,medium,low,7,name.com,,,
 632f64c2-c7b6-402f-b076-017ce698d855,flyspeck.boutique,available,2.98,41.98,low,low,8,namecheap,,,08/08/2026 14:29
@@ -63,7 +63,7 @@ a1fe7c53-4460-451e-a36f-516db6c074ed,streetnumber.boutique,available,6.99,,mediu
 283612dc-bf22-4b66-8dde-bd0e69ca48ad,overall.boutique,available,6.99,,high,low,7,name.com,,,
 46cc98e5-84b6-4e9b-b19a-fc0bfb36a92c,polish.boutique,available,,,high,low,6,,,,
 499f071e-0b30-42ac-9187-61a6fe8deabf,barshaped.boutique,available,2.98,41.98,low,low,10,namecheap,,,08/08/2026 15:16
-7efd3ca3-5232-4a47-875b-00411f35cda6,chestnut.boutique,available,6.99,,medium,low,8,name.com,,,
+7efd3ca3-5232-4a47-875b-00411f35cda6,chestnut.boutique,available,5.99,32.99,low,low,8,namesilo,,,23/09/2026 14:04
 fd515571-cf43-454d-b69f-27af6dc4381f,airplane.boutique,available,6.99,,high,low,8,name.com,,,
 7f670925-2abd-47fc-a7d4-bcbd978c12ca,enterthepicture.boutique,available,6.99,,medium,low,17,name.com,,,
 11558dae-e6f0-45d4-a33e-7c38b49d7899,treeoflife.boutique,available,6.99,,medium,low,12,name.com,,,
@@ -108,7 +108,7 @@ bfc66315-16b1-4a2c-885a-ed68958d17a3,alienating.boutique,available,2.98,41.98,lo
 b85dfde9-6ecd-4b83-bacc-acc9b843a306,agrypnotic.boutique,available,2.98,41.98,low,low,10,namecheap,,,
 794d8d69-1184-4940-95ec-20a63f7df73a,dominating.boutique,available,2.98,41.98,low,low,10,namecheap,,,07/08/2026 19:40
 51238a18-360c-4582-81ed-0d38bae70265,wanting.boutique,available,6.99,,high,low,7,name.com,,,
-74ea1087-06aa-496d-98a6-214ed07d59f0,center.boutique,available,6.99,,high,low,6,name.com,,,
+74ea1087-06aa-496d-98a6-214ed07d59f0,center.boutique,available,5.99,32.99,medium,low,6,namesilo,,,23/09/2026 13:19
 4304d550-a662-4520-9cf0-5cd16e5b5068,crimes.boutique,available,6.99,,medium,low,6,name.com,,,
 0ff487fd-816d-4f69-815d-98c32248c28f,fist.boutique,available,6.99,,high,low,4,name.com,,,
 bd1b1a19-4531-4ac9-acbb-276ddfc4b17b,winover.boutique,available,6.99,,high,low,8,name.com,,,
@@ -168,7 +168,7 @@ e86ce7e0-7436-4162-b181-8aa130f6bbd6,littlejoe.boutique,available,2.98,41.98,low
 6d432f40-7f33-4129-b6c7-c2cb718da334,sag.boutique,available,6.99,,medium,low,3,name.com,,,
 05968b24-405d-4aa1-ba77-7c17e2b9ed9b,daggum.boutique,available,6.99,,high,low,6,name.com,,,
 93d60b2a-3bdf-43a3-96b3-2c993154b8de,thinking.boutique,available,6.99,,high,low,8,name.com,,,
-d5660919-d930-4a88-a3c1-f55329115a50,busted.boutique,available,6.99,,medium,low,6,name.com,,,
+d5660919-d930-4a88-a3c1-f55329115a50,busted.boutique,available,5.99,32.99,low,low,6,namesilo,,,23/09/2026 12:06
 4a1fffeb-4a82-4289-81e3-15c5f9b8e8f6,motherfukkah.boutique,available,6.99,,medium,low,12,name.com,,,
 fb7bbec3-5d52-47d6-97bd-42d9ecc5a2ce,tobeginwith.boutique,available,6.99,,low,low,13,name.com,,,
 009165bb-d268-4956-a490-f317ed7096b8,peremptory.boutique,available,2.98,41.98,low,low,10,namecheap,,,07/08/2026 19:45
@@ -185,7 +185,7 @@ b03405b2-7c69-424d-a359-8395c83466f1,renegade.boutique,available,2.98,41.98,low,
 e80a4f77-3130-4f1a-9a2d-4b68bcb7fcae,panasonic.boutique,available,,,high,low,9,,,,
 9115d34e-f0de-4116-be7c-831892fb2ea8,subtle.boutique,available,6.99,,high,low,6,name.com,,,
 ecd5b9f1-899a-4483-b23d-f7c10c1a290f,laurelandhardy.boutique,available,6.99,,medium,low,16,name.com,,,
-cef6b751-17ad-4748-81d6-4a895a41bc75,component.boutique,available,6.99,46.99,high,low,9,name.com,,,
+cef6b751-17ad-4748-81d6-4a895a41bc75,component.boutique,available,2.98,41.98,medium,low,9,namecheap,,,23/09/2026 20:58
 3b41ea52-3a23-4806-a9ab-c63e01d52ab7,auricular.boutique,available,2.98,41.98,low,low,9,namecheap,,,07/08/2026 17:46
 2598558d-6b55-4046-907d-eec7cec8a84d,arranged.boutique,available,5.99,32.99,medium,low,8,namesilo,,,22/09/2026 08:25
 ed941b6f-18b3-4ad2-ae72-f1b6b163d006,foreign.boutique,available,2.98,41.98,low,low,7,namecheap,,,
@@ -206,7 +206,7 @@ b001e0fb-d606-4e18-8af9-696ad6d05312,aufait.boutique,available,2.98,41.98,low,lo
 cf841d36-913e-4dc6-850c-7ad024b5695e,organizations.boutique,available,6.99,,low,low,13,name.com,,,
 8339735b-8dbc-444f-b2e7-bd144913f4e9,lip.boutique,premium,242,242,high,low,3,namesilo,,,
 0f9dbe89-1bd8-4d06-81eb-6a1dc1f8ee2a,metedout.boutique,available,2.98,41.98,low,low,9,namecheap,,,06/08/2026 07:37
-89fc54a1-bcb5-4a7f-997d-d66be510a018,comp.boutique,available,6.99,46.99,medium,low,4,name.com,,,
+89fc54a1-bcb5-4a7f-997d-d66be510a018,comp.boutique,available,2.98,41.98,low,low,4,namecheap,,,23/09/2026 17:59
 f6643725-d6e8-4104-a994-7bd583ebd656,toward.boutique,available,6.99,,medium,low,6,name.com,,,
 cdf96b04-4ab5-459f-88c7-db395f5b7c21,carcoat.boutique,available,6.99,,high,low,8,name.com,,,
 590ea915-822b-4885-8d79-e7f91166e274,unceasing.boutique,available,2.98,41.98,low,low,9,namecheap,,,
@@ -231,7 +231,7 @@ b56717ad-df5f-41b2-b4f2-a43218c81c70,clinically.boutique,available,6.99,,medium,
 f76d5cb5-a69b-4c8d-b7b3-7d6e96515fdc,tower.boutique,available,,,high,low,5,,,,
 ded73266-82d2-4d16-b4f8-b90b3de27877,apocarpous.boutique,available,2.98,41.98,low,low,10,namecheap,,,06/08/2026 01:00
 f19928f2-f539-493f-992f-047d820ebf8d,cry.boutique,available,6.99,,high,low,3,name.com,,,
-00a94376-5993-4ca3-b59e-b9c8e2c18be9,payment.boutique,resell,,,medium,low,7,Porkbun LLC,24/01/2026 16:06,24/01/2027 16:06,20/09/2026 02:57
+00a94376-5993-4ca3-b59e-b9c8e2c18be9,payment.boutique,resell,,,medium,low,7,Porkbun LLC,24/01/2026 16:06,24/01/2027 16:06,23/09/2026 10:58
 87e3295d-2e22-4e15-999a-ddbb2f433cba,coat.boutique,available,6.99,,high,low,4,name.com,,,
 f156b759-25f7-4e5b-997b-5fdb5caa1daf,srilanka.boutique,available,,,low,low,9,,,,
 832033e3-2085-4e69-b722-d3d2ec19fa89,upset.boutique,available,6.99,46.99,high,low,5,name.com,,,
@@ -255,17 +255,16 @@ ef0de145-48ab-44e8-9cd5-2bcbaafb31ae,adducent.boutique,available,2.98,41.98,low,
 ac3f60ed-d3a0-4790-a291-573cf03d4156,liable.boutique,available,6.99,,high,low,6,name.com,,,
 4755cf1a-2f4a-464d-a953-dca6ebfab62b,island.boutique,resell,,,high,low,6,"Name.com, Inc.",24/09/2014 02:43,24/09/2026 02:43,
 189e5ac0-893f-4eb3-9c7d-73fde1963b3c,devices.boutique,available,5.99,32.99,medium,low,7,namesilo,,,23/09/2026 04:05
-01bea22e-a6f6-4e8b-9323-bfcc868a7876,gracious.boutique,available,6.99,46.99,high,low,8,name.com,,,
 fe9f848f-1d11-4bce-99c9-34cb7c3b8dd1,alky.boutique,available,2.98,41.98,low,low,4,namecheap,,,
 b8c89a95-0239-477b-af2e-f285c001e17e,powered.boutique,available,6.99,,high,low,7,name.com,,,
 8ce64a7d-0882-46ef-8451-a1fcc15aca15,confused.boutique,available,2.98,41.98,low,low,8,namecheap,,,07/08/2026 12:02
 3a606319-ef8c-4dc0-96cb-657ff80cda3c,pricing.boutique,available,6.99,,high,low,7,name.com,,,
 0219f703-7642-41d8-b345-d9e8e38edce2,intheair.boutique,available,2.98,41.98,low,low,10,namecheap,,,15/09/2026 05:25
 8f2574af-7598-4630-90f2-b61587ac86bd,los.boutique,available,6.99,,high,low,3,name.com,,,
-1f9a1163-274c-4638-90c1-03e133ba0b0c,compliant.boutique,available,6.99,46.99,medium,low,9,name.com,,,
+1f9a1163-274c-4638-90c1-03e133ba0b0c,compliant.boutique,available,2.98,41.98,medium,low,9,namecheap,,,23/09/2026 17:44
 f43082f3-711b-4dcb-be8f-5f13167003c3,cement.boutique,available,6.99,,medium,low,6,name.com,,,
 c848cda1-8e93-4cb2-bc39-58b3721f64bf,enlighten.boutique,available,6.99,,high,low,9,name.com,,,
-5bcc6de2-3244-4aaa-8691-591e445c090d,park.boutique,resell,,,high,low,4,"Spaceship, Inc.",21/02/2026 17:40,21/02/2027 17:40,
+5bcc6de2-3244-4aaa-8691-591e445c090d,park.boutique,resell,,,medium,low,4,"Spaceship, Inc.",21/02/2026 17:40,21/02/2027 17:40,23/09/2026 15:57
 7e04dfef-9798-46eb-9ea6-811d99f73257,kind.boutique,available,6.99,,high,low,4,name.com,,,
 ce92a486-c4c7-4652-9351-6ff2991ca129,standardize.boutique,available,6.99,,high,low,11,name.com,,,
 2bc29b59-bfcf-40da-be39-d1c0173ac0b7,ilikethat.boutique,available,6.99,,medium,low,11,name.com,,,
@@ -279,7 +278,7 @@ f80b6bd1-cc88-4044-960f-251e3f2c677f,apetalous.boutique,available,2.98,41.98,low
 834a8310-62d2-481a-9efd-ed88ceb93283,patrikin.boutique,available,2.98,41.98,low,low,8,namecheap,,,
 3b434f74-e8cc-4320-b70a-7fdd5db28c02,thoughtless.boutique,available,6.99,,medium,low,11,name.com,,,
 842cfe51-67fe-4ede-9fe4-37990baa4737,another.boutique,available,6.99,,high,low,7,name.com,,,
-fc67d0ce-d827-4680-9e9e-6ec10da7bab5,composed.boutique,available,6.99,46.99,high,low,8,name.com,,,
+fc67d0ce-d827-4680-9e9e-6ec10da7bab5,composed.boutique,available,2.98,41.98,medium,low,8,namecheap,,,23/09/2026 17:50
 b01072d3-5ce9-42d5-848b-3631086389a3,developer.boutique,available,6.99,,high,low,9,name.com,,,
 fe238dcc-9cfc-4938-935e-5a0294d5c6f8,few.boutique,available,6.99,,high,low,3,name.com,,,
 093a37a9-f041-4fa1-8e86-f4bf5bd16229,dissolve.boutique,available,6.99,,high,low,8,name.com,,,
@@ -295,15 +294,14 @@ c177c585-72cb-4340-96d1-0cd4c9d62919,calf.boutique,available,6.99,,high,low,4,na
 15632390-e228-4147-a155-1b285554b0ca,addressed.boutique,available,2.98,41.98,low,low,9,namecheap,,,
 67c61afa-078b-49c3-af25-eb60db858bde,monthly.boutique,available,6.99,,high,low,7,name.com,,,
 efcfa6e3-3f01-452c-ad76-b1863c3e3acb,howareyou.boutique,available,6.99,,medium,low,11,name.com,,,
-f1dc6753-7fbf-46cb-9472-5904dc61ad9a,slick.boutique,available,6.99,46.99,medium,low,5,name.com,,,
+f1dc6753-7fbf-46cb-9472-5904dc61ad9a,slick.boutique,available,2.98,41.98,low,low,5,namecheap,,,24/09/2026 02:25
 e8fae52d-464f-41b6-aad0-c79b7b76eb9c,not.boutique,available,6.99,,medium,medium,3,name.com,,,
 2e056e0e-2af5-4340-b020-5147e310d83e,attention.boutique,available,6.99,,high,low,9,name.com,,,
 f322a014-896c-47f5-b807-4edda3ecc789,extra.boutique,available,5.99,32.99,medium,low,5,namesilo,,,21/09/2026 17:12
-d3969099-43e5-496f-9d57-963b62553095,careless.boutique,available,6.99,,medium,low,8,name.com,,,
+d3969099-43e5-496f-9d57-963b62553095,careless.boutique,available,5.99,32.99,low,low,8,namesilo,,,23/09/2026 12:52
 0a77aa00-43bb-47f2-967d-f0dae132d2dd,creature.boutique,available,5.99,32.99,low,low,8,namesilo,,,22/09/2026 04:42
 94c21a1d-64b9-459b-a43e-b826c44fad24,age.boutique,available,5.99,32.99,medium,low,3,namesilo,,,19/09/2026 07:13
 f1929551-b8b5-4075-86a2-5c83cfcd498e,want.boutique,available,6.99,,high,low,4,name.com,,,
-a7d4203b-d71f-42ff-85ba-59944fc59f50,organize.boutique,available,6.99,46.99,high,low,8,name.com,,,
 77bec5b2-9e0c-415d-b3cd-ea8c0a66c25b,disagree.boutique,available,6.99,,medium,low,8,name.com,,,
 6a067678-ea2b-40de-bd9e-67504c14a703,weird.boutique,available,6.99,46.99,medium,low,5,name.com,,,
 d4f8382e-b118-43b2-8e44-c983e646a8dd,gym.boutique,premium,250,,high,low,3,name.com,,,
@@ -314,12 +312,12 @@ a80630dc-3562-4a68-a1e2-7690a193f6d1,impulse.boutique,resell,,,high,low,7,"Space
 53c6a897-d9d2-4eed-b49f-6f29fabb2c7a,liv.boutique,available,2.98,41.98,low,low,3,namecheap,,,
 febdb67f-dcca-4a3b-a2cb-7fa64fc0919f,shooting.boutique,available,6.99,,medium,low,8,name.com,,,
 86c34f14-ab4d-4c91-a8ba-3ca9542e1256,possibly.boutique,available,6.99,,medium,low,8,name.com,,,
-c4388eaf-24ec-40b8-bc22-1ef0f6ee1e46,corrupt.boutique,available,6.99,46.99,high,low,7,name.com,,,
+c4388eaf-24ec-40b8-bc22-1ef0f6ee1e46,corrupt.boutique,available,3.99,46.99,low,low,7,name.com,,,23/09/2026 23:53
 6f06198d-e741-455b-b3e1-6076df1a0402,acapnotic.boutique,available,2.98,41.98,low,low,9,namecheap,,,
 2340bf31-3f29-48f0-864e-579a31c570b6,her.boutique,premium,242,242,medium,low,3,namesilo,,,
 529169de-ef7b-4c91-a8d2-88d9ca211d14,toothwork.boutique,available,6.99,,low,low,9,name.com,,,
 ba4c1128-db78-4192-88e8-036f6578abf3,nominee.boutique,available,6.99,,high,low,7,name.com,,,
-aaec0b97-33f9-42d2-86d9-cc4915a16769,succinct.boutique,available,6.99,46.99,medium,low,8,name.com,,,
+aaec0b97-33f9-42d2-86d9-cc4915a16769,succinct.boutique,available,2.98,41.98,medium,low,8,namecheap,,,23/09/2026 17:07
 7ffe24c5-113a-46e8-b884-4d81221e1ee3,abovementioned.boutique,available,6.99,,low,low,15,name.com,,,
 bb239507-1660-4fcc-bb49-fc24a00c0620,aspect.boutique,available,6.99,,high,low,6,name.com,,,
 92db578e-bd40-4f8a-b4d1-f6ca30c3d8be,philistine.boutique,available,2.98,41.98,low,low,10,namecheap,,,
@@ -364,7 +362,7 @@ b564dc6a-ff41-45e7-be3b-a51496606f4f,awol.boutique,available,2.98,41.98,low,low,
 5aab891e-e40b-4109-b053-9454766454fb,thisway.boutique,available,6.99,,medium,low,8,name.com,,,
 bcae04a7-f97a-4b21-96a9-864166242a4e,awny.boutique,available,2.98,41.98,low,low,4,namecheap,,,08/08/2026 01:25
 8b54ee74-d931-44cf-84ab-8f439b592b17,enginedriver.boutique,available,6.99,,medium,low,13,name.com,,,
-f680de48-46ed-4a9e-a7b0-37f84c88d771,scornful.boutique,available,6.99,46.99,medium,low,8,name.com,,,
+f680de48-46ed-4a9e-a7b0-37f84c88d771,scornful.boutique,available,5.99,32.99,low,low,8,namesilo,,,23/09/2026 21:53
 22113f3c-68c2-4489-84af-c29d824e2d88,awful.boutique,available,5.99,32.99,low,low,5,namesilo,,,22/09/2026 15:06
 147073ef-cf80-4f2a-84ef-3da6520133b1,counter.boutique,available,5.99,32.99,medium,low,7,namesilo,,,22/09/2026 05:49
 599fd507-1eaa-4d1e-821e-c8b74e6f42bc,avionic.boutique,available,2.98,41.98,low,low,7,namecheap,,,07/08/2026 23:35
@@ -391,7 +389,7 @@ f861972f-4e1a-4731-a59e-327f06c9c1d0,whoknew.boutique,available,6.99,,low,low,8,
 ab39d8fc-29de-4afd-9e78-1fdc9c2a68fd,ionlyworkhere.boutique,available,6.99,,medium,low,16,name.com,,,
 67ed6fef-19f4-4711-89d8-1ebf6a7c5d89,briefcase.boutique,available,6.99,,high,low,9,name.com,,,
 28a54d20-dfc3-42f7-b320-80775e109716,about.boutique,available,5.99,32.99,medium,low,5,namesilo,,,21/09/2026 14:03
-4c51ede4-86e1-4f4d-82e6-f75073944e09,corrective.boutique,available,6.99,46.99,high,low,10,name.com,,,
+4c51ede4-86e1-4f4d-82e6-f75073944e09,corrective.boutique,available,5.99,32.99,medium,low,10,namesilo,,,23/09/2026 23:46
 7347119d-199e-4509-865a-20944dae4dc1,abient.boutique,available,2.98,41.98,low,low,6,namecheap,,,
 4b1c10d4-edb6-408b-b3b8-613af98040fe,todate.boutique,available,6.99,,medium,low,7,name.com,,,
 499b3a12-1ae4-473b-ad48-53f95339f4cd,endearing.boutique,available,2.98,41.98,medium,low,9,namecheap,,,21/09/2026 19:24
@@ -399,7 +397,7 @@ cdc68e07-4b9a-459a-9d26-456732a3e0a6,jot.boutique,available,6.99,,high,low,3,nam
 4ce9e2b0-4b9b-4c66-8c9d-eeadc7a9b34e,contrasting.boutique,available,6.99,,medium,low,11,name.com,,,
 41eaacb0-51a4-4acf-9f96-1d15ccbf1cd3,fire.boutique,available,,,high,medium,4,,,,
 c374158a-2f11-4973-b688-5bb50ffde9a5,tailless.boutique,available,2.98,41.98,low,low,8,namecheap,,,05/08/2026 21:33
-78fe7072-a667-4905-aea7-6b3ee83a320f,soandso.boutique,available,6.99,,medium,low,9,name.com,,,
+78fe7072-a667-4905-aea7-6b3ee83a320f,soandso.boutique,available,2.98,41.98,low,low,9,namecheap,,,23/09/2026 11:19
 d55d9b92-138c-424d-8924-387515ae9ffc,went.boutique,available,6.99,,high,low,4,name.com,,,
 dafdd43b-f873-4148-989e-2be9e353d9c1,increased.boutique,available,6.99,,high,low,9,name.com,,,
 d160c201-4b47-4aea-86db-e657bdc499cc,thirsty.boutique,available,6.99,,high,low,7,name.com,,,
@@ -407,7 +405,7 @@ d109c35a-e863-406f-a13d-cd71bb260e14,siri.boutique,available,,,high,low,4,,,,
 7443be58-7c22-41ed-b7e6-da16a0183edc,enrich.boutique,available,6.99,,high,low,6,name.com,,,
 e168fc59-f8d5-44be-9e92-8b554681cd0e,netherlands.boutique,available,,,medium,low,11,,,,
 eaf0f369-4ec7-46b1-b9cf-0c85421c1147,gag.boutique,available,6.99,,high,low,3,name.com,,,
-ac9b8dfa-c722-4080-b3e5-40fb6832a6f2,bugged.boutique,available,6.99,,medium,low,6,name.com,,,
+ac9b8dfa-c722-4080-b3e5-40fb6832a6f2,bugged.boutique,available,5.99,32.99,low,low,6,namesilo,,,23/09/2026 10:21
 10b7e935-d1c6-4b00-b643-95b612c30ee8,passcode.boutique,available,6.99,,high,low,8,name.com,,,
 032d58e4-a22d-4307-8bbe-39da7f6ab01f,cxx.boutique,available,2.98,41.98,low,low,3,namecheap,,,
 1673b9e8-c5bc-4143-ba23-8f9c98f8410d,pretend.boutique,available,6.99,,high,low,7,name.com,,,
@@ -422,7 +420,7 @@ fdd1a084-b34f-4b5f-bf8b-218da1d4270f,atatime.boutique,available,6.99,,medium,low
 4d1bf933-f0c8-4b1a-90ae-b3bab213c76d,todowith.boutique,available,6.99,,medium,low,10,name.com,,,
 46220585-087d-4fa8-b33a-33df7824f10e,telephonecall.boutique,available,6.99,,medium,low,14,name.com,,,
 1a64a875-f80e-4c99-8c69-fa3f99467f29,driver.boutique,available,6.99,,high,low,6,name.com,,,
-c0dd92c3-9193-42df-88fc-97818baa67ab,obese.boutique,available,6.99,46.99,high,low,5,name.com,,,
+c0dd92c3-9193-42df-88fc-97818baa67ab,obese.boutique,available,2.98,41.98,low,low,5,namecheap,,,23/09/2026 23:32
 48426d11-4dcf-4db6-ae56-cbead5569274,join.boutique,available,6.99,,high,medium,4,name.com,,,
 aaa42355-ee23-4047-8656-e35446d70bcb,value.boutique,premium,500,,high,low,5,name.com,,,
 a45d5e8c-7782-4cd9-b607-2de35d4c77ff,patrician.boutique,available,2.98,41.98,low,low,9,namecheap,,,06/08/2026 19:34
@@ -442,16 +440,16 @@ d6ed08be-dae9-4b35-bbdc-454cdd7a50d9,jasmine.boutique,available,,,medium,low,7,,
 fc5c5f6e-d574-4cb5-87b1-17d229db1ac5,utility.boutique,available,2.98,41.98,medium,low,7,namecheap,,,19/09/2026 06:04
 189ed048-3969-4b53-9246-977a94b10668,base.boutique,available,5.99,32.99,low,low,4,namesilo,,,22/09/2026 17:31
 49b380a3-4fc7-4f84-902c-498981a34173,lush.boutique,available,,,medium,low,4,,,,
-019f94cc-1f3a-46e5-bb1a-aea96618a0b7,complex.boutique,available,6.99,46.99,high,low,7,name.com,,,
+019f94cc-1f3a-46e5-bb1a-aea96618a0b7,complex.boutique,available,2.98,41.98,medium,low,7,namecheap,,,23/09/2026 17:35
 38eca6fb-0f2e-4f2d-8124-903c20da336d,lxvi.boutique,available,2.98,41.98,low,low,4,namecheap,,,
 f5393be6-fd50-4a2f-af68-1f8645a75750,thousand.boutique,available,5.99,32.99,medium,low,8,namesilo,,,21/09/2026 11:02
 a90ca133-296e-48b5-9b59-16888945943a,coconut.boutique,available,6.99,,high,low,7,name.com,,,
 b7a15e13-e54b-4301-a91a-2060e202390c,contraband.boutique,available,2.98,41.98,medium,low,10,namecheap,,,22/09/2026 21:25
 bac78209-51f0-4535-9d53-66faf9ecc28c,biological.boutique,available,2.98,41.98,medium,low,10,namecheap,,,22/09/2026 20:55
-c2b17a6c-d2cc-4a33-9b86-f34fb5b4ca35,completed.boutique,available,6.99,46.99,high,low,9,name.com,,,
+c2b17a6c-d2cc-4a33-9b86-f34fb5b4ca35,completed.boutique,available,5.99,32.99,medium,low,9,namesilo,,,23/09/2026 17:22
 938ddb9e-4f25-4f45-8a2f-26573c4a9517,analphabet.boutique,available,2.98,41.98,low,low,10,namecheap,,,
 6246223b-4870-4aa7-b77b-32eca3d354c4,actinic.boutique,available,2.98,41.98,low,low,7,namecheap,,,
-b2d9b635-e935-4136-a425-4eb0cb6c93a8,advised.boutique,available,2.98,41.98,low,low,7,namecheap,,,19/09/2026 08:43
+b2d9b635-e935-4136-a425-4eb0cb6c93a8,advised.boutique,available,5.99,32.99,low,low,7,namesilo,,,23/09/2026 07:10
 45e1156b-19f8-43c1-b5c2-4e07a210ad91,traveler.boutique,available,6.99,,medium,low,8,name.com,,,
 f18f45c4-ae4b-4ea1-9176-b75de3e54fe6,retina.boutique,available,6.99,,high,low,6,name.com,,,
 9480713d-699e-480e-b81b-95c6ca0c165c,gonewrong.boutique,available,6.99,,medium,low,10,name.com,,,
@@ -488,7 +486,6 @@ d2bc3d9f-7f3d-422a-bfa2-23a199531bea,sum.boutique,available,5.99,32.99,low,low,3
 0f6ef09b-cbf5-444b-9db0-9b047bbbf3b0,communicate.boutique,available,6.99,,high,low,11,name.com,,,
 f09839b0-f828-4781-8321-fec13ca94679,mentor.boutique,available,6.99,,high,low,6,name.com,,,
 e0ca2e76-cf6d-4855-ab85-0195534e67a3,direction.boutique,available,6.99,,high,low,9,name.com,,,
-dacf9131-5507-44bd-a8d9-339fb8c7f153,curious.boutique,available,6.99,46.99,high,low,7,name.com,,,
 05ba943b-1c0e-4ba2-a21f-9e1c7ecd000e,uptonow.boutique,available,2.98,41.98,low,low,9,namecheap,,,13/09/2026 21:45
 4e644ee4-9c01-43ec-913c-fd2e04dbd36b,indorse.boutique,available,2.98,41.98,low,low,7,namecheap,,,08/08/2026 05:17
 610a0474-22bc-4c73-a225-8823efa83580,pride.boutique,resell,,,high,low,5,"Spaceship, Inc.",25/10/2025 19:26,25/10/2026 19:26,
@@ -555,7 +552,7 @@ cf958f59-3242-4093-86ff-60fb637bc386,analogical.boutique,available,2.98,41.98,lo
 1023a222-b845-4ad4-8728-d85dc36743ef,makesure.boutique,available,6.99,,high,low,9,name.com,,,
 179815e1-4b30-4403-96e3-0e1ce4fa4574,inhibit.boutique,available,6.99,,medium,low,7,name.com,,,
 b344b98b-4d77-4b51-85b6-691392afa3aa,pompom.boutique,available,2.98,41.98,low,low,7,namecheap,,,
-430ceceb-2d16-4bdf-8313-8b52a5d524fa,shrub.boutique,available,6.99,,medium,low,5,name.com,,,
+430ceceb-2d16-4bdf-8313-8b52a5d524fa,shrub.boutique,available,5.99,32.99,low,low,5,namesilo,,,23/09/2026 11:56
 39a7d78c-c166-46f7-81e0-ca4aa50f974a,troika.boutique,available,2.98,41.98,low,low,6,namecheap,,,
 08700103-90db-46fe-a18d-df0cf6793ba6,intrepid.boutique,available,5.99,32.99,medium,low,8,namesilo,,,22/09/2026 12:24
 2488ddb3-e2a9-471e-989b-9c9128299ac2,elite.boutique,resell,,,high,medium,5,"Sav.com, LLC",10/04/2026 19:24,10/04/2027 19:24,
@@ -686,7 +683,7 @@ e0ae4802-df42-4c35-b73c-c85fa4dfc1bc,glossary.boutique,available,6.99,,high,low,
 36da6709-6444-4bbf-9f60-03f4900f8fcd,express.boutique,resell,,,high,low,7,Dynadot Inc,21/09/2025 17:00,21/09/2026 17:00,
 5763d4d0-f6e4-4218-a9ee-87e37a624db9,northern.boutique,available,6.99,,high,low,8,name.com,,,
 5f1760d1-b8f8-4eb7-855f-79c2dbe7222c,strawberryred.boutique,available,6.99,,low,low,14,name.com,,,
-ab15ae1a-0884-4422-b604-909b6436eded,careful.boutique,available,6.99,,high,low,7,name.com,,,
+ab15ae1a-0884-4422-b604-909b6436eded,careful.boutique,available,5.99,32.99,medium,low,7,namesilo,,,23/09/2026 12:50
 27e57a2b-5fba-4392-a421-fb6a4665add2,hardcurrency.boutique,available,6.99,,high,low,13,name.com,,,
 f5eea96a-7411-4fbf-9814-1282795b40ea,bflat.boutique,available,6.99,,medium,low,6,name.com,,,
 2a5eeda0-7242-4522-99d2-14ae5b1c6cda,playing.boutique,available,5.99,32.99,medium,low,7,namesilo,,,21/09/2026 16:27
@@ -712,7 +709,7 @@ ee7aa855-b10f-4a33-8a22-ae9a08e358cb,eighty.boutique,available,2.98,41.98,low,lo
 4148f1ed-a6d4-45ec-bc56-2ab2dc4ead0a,employer.boutique,available,6.99,,high,low,8,name.com,,,
 bab32b23-cbc1-449c-b925-5e25ea03dfc3,begotten.boutique,available,2.98,41.98,low,low,8,namecheap,,,09/08/2026 09:11
 7033551f-e216-40c7-8491-e42f2b6d6a42,aunt.boutique,available,6.99,,high,low,4,name.com,,,
-61041a4b-0972-40da-990d-b0248455d68f,crowded.boutique,available,6.99,46.99,medium,low,7,name.com,,,
+61041a4b-0972-40da-990d-b0248455d68f,crowded.boutique,available,5.99,32.99,low,low,7,namesilo,,,24/09/2026 02:10
 755df56f-c41f-4dc0-a923-b263be626622,aspherical.boutique,available,2.98,41.98,low,low,10,namecheap,,,07/08/2026 04:57
 0d4c0db6-63cf-4a9c-bdf8-f80526d87cca,anyway.boutique,available,6.99,,high,low,6,name.com,,,
 01545a80-ca26-4b2f-bb62-65e549cc12a6,shared.boutique,available,6.99,46.99,high,low,6,name.com,,,
@@ -728,11 +725,10 @@ b099a366-acf0-418e-bbb9-4d48ad07b024,grandparent.boutique,available,5.99,32.99,m
 da68f306-5612-4a23-ba9b-61353d37dacc,after.boutique,available,5.99,32.99,medium,low,5,namesilo,,,21/09/2026 22:16
 15118d07-cf7e-4969-8572-d4d8fa5fe0f9,flee.boutique,available,6.99,,medium,low,4,name.com,,,
 ae632822-dd36-41b7-939b-942c641c8921,qualitative.boutique,available,6.99,,high,low,11,name.com,,,
-c2d1e24e-3367-4e34-9136-addae877fb92,coral.boutique,available,6.99,46.99,medium,low,5,name.com,,,
 38891c4a-acb6-4492-ac1d-e4e137492be9,asia.boutique,premium,854,854,high,low,4,namesilo,,,
 471b7093-2b3a-4af6-9944-90da69ff5dfc,crabby.boutique,available,2.98,41.98,low,low,6,namecheap,,,08/08/2026 07:43
 7cc0aa25-2647-4f04-88db-a5cafb940aa0,quartet.boutique,available,2.98,41.98,low,low,7,namecheap,,,
-de68d0f3-3dda-48e2-8ed5-1c44bcbde1a0,concealed.boutique,available,6.99,46.99,medium,low,9,name.com,,,
+de68d0f3-3dda-48e2-8ed5-1c44bcbde1a0,concealed.boutique,available,2.98,41.98,low,low,9,namecheap,,,23/09/2026 18:33
 4d35428c-9e2c-400a-a3eb-4152b415a15e,telloff.boutique,available,6.99,,medium,low,8,name.com,,,
 79327c06-8627-44c3-a8ce-e509d680403a,holdopen.boutique,available,6.99,,high,low,9,name.com,,,
 a4723af8-35ec-4f7a-830c-d5b6d293a4e0,lowcost.boutique,available,2.98,41.98,low,low,8,namecheap,,,
@@ -772,7 +768,7 @@ dacd7c82-7e3e-4595-9794-61c399904fb2,wellworn.boutique,available,2.98,41.98,low,
 4c8cac9b-6a9a-476a-beb8-90758de20d32,frenchmustard.boutique,available,6.99,,high,low,14,name.com,,,
 e698a4ca-c7de-4cbd-969f-0676af84bb05,sweatshirt.boutique,available,6.99,,high,low,10,name.com,,,
 0fa05363-8cc6-4e66-a786-2bb995451bcc,unquestionable.boutique,available,6.99,,high,low,14,name.com,,,
-3a24c05e-fbf6-4518-9b2d-d91cb792169f,contested.boutique,available,6.99,46.99,medium,low,9,name.com,,,
+3a24c05e-fbf6-4518-9b2d-d91cb792169f,contested.boutique,available,5.99,32.99,low,low,9,namesilo,,,23/09/2026 22:01
 b3f6a456-c15d-4285-b171-0ee86d2e0232,blockade.boutique,available,6.99,,high,low,8,name.com,,,
 39956e1b-84d9-41ba-ac91-ad128593b28c,penetration.boutique,available,2.98,41.98,low,low,11,namecheap,,,08/09/2026 15:09
 06f8459a-72ae-47bc-9022-e8fc58091fb3,clx.boutique,available,2.98,41.98,low,low,3,namecheap,,,
@@ -895,7 +891,7 @@ e3d9b40e-0a9f-4349-99c4-4b50b870228c,rheumatic.boutique,available,2.98,41.98,low
 a8de2c00-2370-4636-8b87-5e8f0819bd4e,landline.boutique,available,6.99,,medium,low,9,name.com,,,
 637f3843-f12d-4186-b95b-86f22e090301,mydearfellow.boutique,available,6.99,,low,low,14,name.com,,,
 da7f77cc-24d1-49b7-bd94-8afb792164f7,sinners.boutique,available,6.99,,low,low,7,name.com,,,
-cbf8c368-64b6-4b1e-994a-84c0e0c64968,firm.boutique,available,2.98,41.98,medium,low,4,namecheap,,,20/09/2026 02:35
+cbf8c368-64b6-4b1e-994a-84c0e0c64968,firm.boutique,available,5.99,32.99,medium,low,4,namesilo,,,23/09/2026 04:32
 ef1b03eb-4187-4ee8-b285-639d1a611a53,distant.boutique,available,5.99,32.99,low,low,7,namesilo,,,22/09/2026 02:03
 b8dda50a-0864-49ed-a2d5-a1d4f9124605,miserable.boutique,available,2.98,41.98,low,low,9,namecheap,,,
 77ef1e6f-a137-41a0-a447-bb71e86a02b4,use.boutique,available,6.99,,high,low,3,name.com,,,
@@ -917,7 +913,7 @@ cb1aeda9-69eb-4fa3-955b-3b90c5d9cd92,rightnow.boutique,available,6.99,,medium,lo
 46cd4410-f93b-4277-ad30-433a7abb1d83,haste.boutique,available,6.99,,medium,low,5,name.com,,,
 e85163cb-51d6-430a-8fb5-fff0080df93f,prevenient.boutique,available,2.98,41.98,low,low,10,namecheap,,,
 8f8f2de4-907a-4a75-b466-301bd17c6c59,capable.boutique,available,2.98,41.98,medium,low,7,namecheap,,,21/09/2026 18:33
-a2bcbe7a-89a4-49ab-a0d1-12d1e5921a90,heart.boutique,resell,,,high,low,5,"Sav.com, LLC",27/04/2025 19:54,27/04/2027 19:54,
+a2bcbe7a-89a4-49ab-a0d1-12d1e5921a90,heart.boutique,resell,,,medium,low,5,"Sav.com, LLC - 13",29/07/2026 15:15,29/07/2027 15:15,23/09/2026 13:28
 83934936-d57f-4626-aed6-8e3948009e88,teenage.boutique,available,2.98,41.98,low,low,8,namecheap,,,11/09/2026 10:07
 5f05e2dd-56e8-4eda-abe5-9d1187796250,carribean.boutique,available,6.99,,high,low,9,name.com,,,
 744fc8d0-8922-43a0-830f-6880be8d2543,cast.boutique,available,6.99,,medium,low,4,name.com,,,
@@ -951,6 +947,7 @@ db7fc6b2-14a8-4ed4-bbc2-7a00106c5fe4,anaplastic.boutique,available,2.98,41.98,lo
 7dbabe4b-9015-435a-acfc-c0636c70786a,scratchy.boutique,available,2.98,41.98,low,low,8,namecheap,,,
 6d396f06-e806-4308-9af5-9c19f2dc9577,waterless.boutique,available,2.98,41.98,low,low,9,namecheap,,,06/08/2026 19:03
 7c02a379-4d01-4259-bfef-09fd0d16cba5,surely.boutique,available,6.99,,high,low,6,name.com,,,
+0f02c127-3486-44b5-a28f-6de45564c13b,christian.boutique,available,5.99,32.99,medium,low,9,namesilo,,,23/09/2026 14:35
 aa6336a6-04a3-40e3-b66e-5d6f14d65aaa,inplace.boutique,available,6.99,,medium,low,8,name.com,,,
 79388e70-a5b2-46e2-b262-c29e02b42895,trillionaire.boutique,available,6.99,,high,low,12,name.com,,,
 3fc2d25f-a31f-4585-957f-5e3b16834584,affluence.boutique,available,6.99,,high,low,9,name.com,,,
@@ -966,7 +963,7 @@ ff664406-730b-472d-ae35-0b9783d5b6f5,polo.boutique,available,,,high,low,4,,,,
 7d9e2a08-d1a6-43e2-ad3a-1f296d416bb2,limo.boutique,available,6.99,,high,low,4,name.com,,,
 00f05531-b91e-47d0-9164-7387c036ed43,souls.boutique,available,6.99,,low,low,5,name.com,,,
 0bfcd996-c193-4351-9807-31163224dfd9,closetohome.boutique,available,6.99,,medium,low,13,name.com,,,
-17512331-754f-412d-9b7f-801d0a0b8415,compatible.boutique,available,6.99,46.99,high,low,10,name.com,,,
+17512331-754f-412d-9b7f-801d0a0b8415,compatible.boutique,available,2.98,41.98,medium,low,10,namecheap,,,23/09/2026 16:57
 73a9a47b-9b74-4bad-8985-88101ade4a20,doledout.boutique,available,2.98,41.98,low,low,9,namecheap,,,08/09/2026 04:38
 39e8e69b-9e61-4e50-b25b-8e1ea0570fdf,going.boutique,available,6.99,,high,low,5,name.com,,,
 a76c6872-0529-4055-9b7c-80602b042594,lowkeyed.boutique,available,6.99,,medium,low,9,name.com,,,
@@ -999,3 +996,6 @@ aad66ade-a9d3-4648-ad66-753b8f6a31b9,mealdeal.boutique,available,6.99,,high,low,
 ca939ef5-1309-4a51-abd3-ba8571f04d25,forecloser.boutique,available,6.99,,medium,low,10,name.com,,,
 b71ed770-d726-4e1e-9e31-2d275ca48d1c,lots.boutique,available,6.99,,high,low,4,name.com,,,
 38e98705-338e-4bdd-b64c-987b8fae7fb1,longhaired.boutique,available,6.99,,low,low,11,name.com,,,
+6e5c6ee8-9fc1-4b33-b00b-6a8fad5463db,bringin.boutique,available,6.99,,high,low,8,name.com,,,
+84517208-ae8c-4a8a-965b-2c286672466d,sufficient.boutique,available,6.99,,high,low,10,name.com,,,
+411529fc-a567-4744-8f43-bfac97e8746f,halo.boutique,resell,,,high,medium,4,"GoDaddy.com, LLC",22/01/2026 17:01,22/01/2027 17:01,

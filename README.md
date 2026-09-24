@@ -1,10 +1,10 @@
-# Available .BOUTIQUE One-Word Domains (29,252)
+# Available .BOUTIQUE One-Word Domains (30,910)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C252%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C910%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .boutique one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,252 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,910 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,252 domains · **Median ask:** $6.75 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 30,910 domains · **Median ask:** $6.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/boutique`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| pure.boutique       | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.   |
 | aft.boutique        | available | $2.98     | $41.98        | low            | low    | 3      | namecheap        |
 | alcohol.boutique    | resell    | $6.99     | —             | high           | low    | 7      | Spaceship, Inc.  |
 | gym.boutique        | premium   | $250      | —             | high           | low    | 3      | name.com         |
@@ -83,7 +84,6 @@ print(df.head())
 | gift.boutique       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
 | new.boutique        | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
 | cxx.boutique        | available | $2.98     | $41.98        | low            | low    | 3      | namecheap        |
-| more.boutique       | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,252 live domains                        |
+| 1,000-row public sample | 30,910 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
