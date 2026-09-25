@@ -1,10 +1,10 @@
-# Available .BOUTIQUE One-Word Domains (30,910)
+# Available .BOUTIQUE One-Word Domains (31,918)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C910%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C918%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .boutique one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,910 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,918 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,910 domains · **Median ask:** $6.67 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 31,918 domains · **Median ask:** $6.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/boutique`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| pure.boutique       | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.   |
-| aft.boutique        | available | $2.98     | $41.98        | low            | low    | 3      | namecheap        |
-| alcohol.boutique    | resell    | $6.99     | —             | high           | low    | 7      | Spaceship, Inc.  |
-| gym.boutique        | premium   | $250      | —             | high           | low    | 3      | name.com         |
-| age.boutique        | available | $5.99     | $32.99        | medium         | low    | 3      | namesilo         |
-| electronic.boutique | resell    | $6.99     | $46.99        | low            | low    | 10     | NameCheap, Inc.  |
-| her.boutique        | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
-| clx.boutique        | available | $2.98     | $41.98        | low            | low    | 3      | namecheap        |
-| for.boutique        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
-| hit.boutique        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| cry.boutique        | available | $6.99     | —             | high           | low    | 3      | name.com         |
-| cell.boutique       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| lip.boutique        | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| cue.boutique        | available | $6.99     | —             | medium         | low    | 3      | name.com         |
-| echo.boutique       | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.  |
-| mad.boutique        | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo         |
-| cxv.boutique        | available | $2.98     | $41.98        | low            | low    | 3      | namecheap        |
-| gift.boutique       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
-| new.boutique        | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
-| cxx.boutique        | available | $2.98     | $41.98        | low            | low    | 3      | namecheap        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| power.boutique     | premium   | $242      | $242          | high           | medium | 5      | namesilo         |
+| bread.boutique     | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC     |
+| display.boutique   | available | $2.98     | $41.98        | high           | low    | 7      | namecheap        |
+| seafood.boutique   | available | $2.98     | $41.98        | high           | low    | 7      | namecheap        |
+| structure.boutique | available | $2.98     | $41.98        | high           | low    | 9      | namecheap        |
+| aft.boutique       | available | $2.98     | $41.98        | high           | low    | 3      | namecheap        |
+| alcohol.boutique   | resell    | $6.99     | —             | high           | low    | 7      | Spaceship, Inc.  |
+| diy.boutique       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| ala.boutique       | available | $6.99     | —             | high           | low    | 3      | name.com         |
+| bee.boutique       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 3 |
+| eat.boutique       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| ale.boutique       | available | $6.99     | —             | high           | low    | 3      | name.com         |
+| for.boutique       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
+| gym.boutique       | premium   | $250      | —             | high           | low    | 3      | name.com         |
+| beg.boutique       | available | $6.99     | —             | high           | low    | 3      | name.com         |
+| man.boutique       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| her.boutique       | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| clx.boutique       | available | $2.98     | $41.98        | high           | low    | 3      | namecheap        |
+| bird.boutique      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| hit.boutique       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,910 live domains                        |
+| 1,000-row public sample | 31,918 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOUTIQUE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
