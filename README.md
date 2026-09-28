@@ -1,10 +1,10 @@
-# Available .BOUTIQUE One-Word Domains (22,908)
+# Available .BOUTIQUE One-Word Domains (23,389)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C908%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C389%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .boutique one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,908 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,389 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,908 domains · **Median ask:** $7.89 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 23,389 domains · **Median ask:** $7.93 · **High-demand under $2,500:** 2
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/boutique`
@@ -81,7 +81,7 @@ print(df.head())
 | our.boutique   | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
 | bob.boutique   | available | $5.99     | $32.99        | high           | medium | 3      | namesilo         |
 | mark.boutique  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
-| arts.boutique  | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo         |
+| arts.boutique  | premium   | $68.51    | $68.51        | high           | low    | 4      | spaceship        |
 | btw.boutique   | available | $6.99     | —             | high           | low    | 3      | name.com         |
 | bingo.boutique | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,908 live domains                        |
+| 1,000-row public sample | 23,389 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
